@@ -2,7 +2,7 @@
 
 ## Basics
 
-The tool only accepts E164 and International formats as input.
+The tool only acceබpts E164 and International formats as input.
 
 - E164: +3396360XXXX
 - International: +33 9 63 60 XX XX
